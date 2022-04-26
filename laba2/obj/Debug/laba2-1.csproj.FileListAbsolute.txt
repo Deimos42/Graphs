@@ -1,0 +1,36 @@
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\bin\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\bin\Debug\laba2-1.pdb
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.pdb
+C:\Users\Admin\Desktop\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\bin\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\bin\Debug\laba2-1.pdb
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\laba2-1 — копия2 — копия\laba2-1\obj\Debug\laba2-1.pdb
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\bin\Debug\laba2-1.exe
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\bin\Debug\laba2-1.pdb
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.cache
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.exe
+F:\ЛАБЫ\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\bin\Debug\laba2-1.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\bin\Debug\laba2-1.pdb
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.exe
+D:\WORK\МОИ ФАЙЛЫ\ЛАБЫ2\5 семестр(2)\технологии программирования\laba2-1 — копия2 — копия — копия\laba2-1\obj\Debug\laba2-1.pdb
