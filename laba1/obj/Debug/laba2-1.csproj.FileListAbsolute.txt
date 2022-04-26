@@ -1,0 +1,26 @@
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2-1.csprojResolveAssemblyReference.cache
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.Cache
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\bin\Debug\laba2-1.exe
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\bin\Debug\laba2-1.pdb
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2-1.exe
+N:\ЛАБЫ\5 семестр\laba2-1 — копия\laba2-1\obj\Debug\laba2-1.pdb
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\bin\Debug\laba2-1.exe
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\bin\Debug\laba2-1.pdb
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.Cache
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.exe
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.pdb
+N:\ЛАБЫ\5 семестр\laba2-1 — копия2\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\bin\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\bin\Debug\laba2-1.pdb
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2-1.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\Lab3_SppO.Form1.resources
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2_1.Properties.Resources.resources
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2-1.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2-1.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2-1.exe
+C:\Users\Admin\Desktop\Программы\C#\laba2_final(циклы в графе)(4)\laba2-1\obj\Debug\laba2-1.pdb
